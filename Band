@@ -1,0 +1,49 @@
+<html lang="en"><head></head><body><header>
+<meta charset="UTF-8">
+<title>Earth Code & Fire</title>
+<link href="styles.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+</header>
+
+<h1>
+Earth Code & Fire
+</h1>
+<p>
+  </p><h2>Band Members:Ziwen Ren, Landon Frayser, Claire Mayfield, LE</h2>
+  <hr>
+  <div>
+  <p>
+  Hello, we met at a coding class. Then we started coding and creating music. Now we're called Earth, Code & Fire. 
+  <p>
+</div>
+  <br>
+  <div>
+We play electronic Jazz that will zap your brain.
+</div>
+  <br>
+  <div>
+  <a href="https://www.youtube.com/watch?v=l5blgArm5gs&authuser=0"> Our Music </a>
+  </div>
+   <br>
+  <div>
+  <img src="oprah.gif">
+</div>
+    <div>
+    <ul>
+		<li>bass</li>
+		<li>bass</li>
+		<li>bass</li>
+</ul>
+</div>
+<br>
+<div>
+  <audio controls=""> <source src="mtec343.mp3" type="audio/mpeg"></audio> <br>
+</div>
+<div>
+	    <script src="orbits.js"></script>
+	</div>
+<p></p>
+
+
+<main><canvas id="defaultCanvas0" class="p5Canvas" width="1420" height="800" style="width: 710px; height: 400px; touch-action: none;"><div id="defaultCanvas0_Description" role="region" aria-label="Canvas Description"><p id="defaultCanvas0_fallbackDesc">Users can click on the screen and drag to adjust their perspective in 3D space. The space contains a sphere of dark purple cubes on a light pink background.</p></div></canvas></main></body></html>
